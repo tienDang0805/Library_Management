@@ -1,0 +1,46 @@
+19
+473,Dang,Van,1,1
+1
+LLLLLL1,Machine Learning Co Ban,0,21/8/2020,0/0/0
+200,Hoang Thi,Tien,1,1
+1
+RRRRRR1,Doi Ngan Dung Ngu Dai,0,22/8/2020,0/0/0
+53,Ngo Tuan,Tu,0,1
+3
+WWWWWW1,Mac Ke Thien Ha,1,10/8/2020,22/8/2020
+RRRRRR2,Doi Ngan Dung Ngu Dai,1,22/8/2020,22/8/2020
+WWWWWW1,Mac Ke Thien Ha,0,22/8/2020,0/0/0
+154,Ngo,Bao,0,0
+0
+73,Hoang,Nam,0,0
+0
+144,Ho Tran,Phong,0,1
+0
+155,Ngo,Nhac,0,0
+0
+410,Dang Van,Lam,0,1
+0
+248,Dang Thuy,Tien,1,1
+0
+204,Dang My,Dung,1,1
+0
+202,Dang Gia,Bao,0,1
+0
+257,Ngo Nhan,Dan,0,1
+0
+546,Hoang Van,Hau,0,1
+0
+531,Nguyen,Nhac,0,1
+0
+639,Nguyen Van,Nam,0,1
+0
+689,Dang Le,Gia,1,1
+0
+644,Nguyen,Hue,0,1
+2
+RRRRRR1,Doi Ngan Dung Ngu Dai,1,22/8/2020,22/8/2020
+WWWWWW2,Mac Ke Thien Ha,0,22/8/2020,0/0/0
+904,Ngo Quyen,Anh,1,1
+0
+820,Phan Van,Vu,0,1
+0
